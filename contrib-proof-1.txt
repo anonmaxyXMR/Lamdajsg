@@ -1,0 +1,4 @@
+seed 1 @ 2023-05-07T00:00:00+07:00
+owner=anonmaxyXMR
+repo=Lamdajsg
+year=2023
